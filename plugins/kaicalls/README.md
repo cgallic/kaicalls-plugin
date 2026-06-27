@@ -12,7 +12,7 @@ KaiCalls gives AI agents a phone. Use this plugin to connect an agent to the hos
 
 **What should agents use first?** Agents should start with read-only checks such as listing agents, reviewing business info, checking recent calls, or reading transcripts before attempting any write action.
 
-**What is it not?** It is not the WordPress lead-capture plugin, the n8n workflow package, or an application SDK.
+**What is it not?** It is not the approved WordPress.org lead-capture plugin, the n8n workflow package, or an application SDK.
 
 ## What This Plugin Includes
 
@@ -88,7 +88,7 @@ Do not put API keys, OAuth tokens, call recordings, transcript excerpts, phone n
 
 ### Where should humans go for other KaiCalls integrations?
 
-Use `https://github.com/KaiCalls/kaicalls-wordpress` for WordPress, `https://github.com/KaiCalls/n8n-nodes-kaicalls` for n8n, `https://github.com/KaiCalls/kaicalls-js` for JavaScript/TypeScript, and `https://github.com/KaiCalls/kaicalls-python` for Python.
+Use `https://wordpress.org/plugins/kaicalls-ai-intake/` for WordPress installs, `https://github.com/KaiCalls/kaicalls-wordpress` for WordPress source, `https://github.com/KaiCalls/n8n-nodes-kaicalls` for n8n, `https://github.com/KaiCalls/kaicalls-js` for JavaScript/TypeScript, and `https://github.com/KaiCalls/kaicalls-python` for Python.
 
 ## Validation
 

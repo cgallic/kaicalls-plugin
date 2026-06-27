@@ -16,7 +16,7 @@ https://www.kaicalls.com/api/mcp
 
 **Does it install a phone system?** No. KaiCalls is a hosted SaaS. This plugin gives the agent instructions, skills, commands, and connector metadata for working with the hosted KaiCalls API and MCP endpoint.
 
-**Is this the WordPress plugin?** No. Use [kaicalls-wordpress](https://github.com/KaiCalls/kaicalls-wordpress) for WordPress website lead capture.
+**Is this the WordPress plugin?** No. Use the approved [KaiCalls AI Intake plugin](https://wordpress.org/plugins/kaicalls-ai-intake/) for WordPress website lead capture.
 
 **Is this the SDK?** No. Use [kaicalls-js](https://github.com/KaiCalls/kaicalls-js) or [kaicalls-python](https://github.com/KaiCalls/kaicalls-python) for application code.
 
@@ -97,7 +97,7 @@ Outbound calls, SMS sends, staff alert changes, prompt/rule changes, and account
 
 ### Which repo should I use for another integration surface?
 
-Use [kaicalls-mcp](https://github.com/KaiCalls/kaicalls-mcp) for the connector definition, [kaicalls-js](https://github.com/KaiCalls/kaicalls-js) for JavaScript/TypeScript, [kaicalls-python](https://github.com/KaiCalls/kaicalls-python) for Python, [kaicalls-wordpress](https://github.com/KaiCalls/kaicalls-wordpress) for WordPress, and [n8n-nodes-kaicalls](https://github.com/KaiCalls/n8n-nodes-kaicalls) for n8n.
+Use [kaicalls-mcp](https://github.com/KaiCalls/kaicalls-mcp) for the connector definition, [kaicalls-js](https://github.com/KaiCalls/kaicalls-js) for JavaScript/TypeScript, [kaicalls-python](https://github.com/KaiCalls/kaicalls-python) for Python, [KaiCalls AI Intake](https://wordpress.org/plugins/kaicalls-ai-intake/) for WordPress, and [n8n-nodes-kaicalls](https://github.com/KaiCalls/n8n-nodes-kaicalls) for n8n. WordPress source lives at [KaiCalls/kaicalls-wordpress](https://github.com/KaiCalls/kaicalls-wordpress).
 
 ## Links
 
